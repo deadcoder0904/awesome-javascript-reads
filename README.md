@@ -1,6 +1,6 @@
 # awesome-javascript-reads
 
-> Some awesome javascript reads by me :wink:
+> :notebook_with_decorative_cover: :books: Some awesome :sparkles: javascript reads by me :ghost:
 
 (1) [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - Indepth Javascript by [Kyle Simpson](https://github.com/getify/)
 
