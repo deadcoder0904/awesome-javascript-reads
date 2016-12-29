@@ -21,3 +21,7 @@
 (9) [ECMAScript 6 in Node.JS](https://github.com/JustinDrake/node-es6-examples) - This text introduces and illustrates, with simple examples, ECMAScript 6 (ES6 for short) features natively available in Node by [Justin](https://github.com/JustinDrake)
 
 (10) [ECMAScript 6 Complete Tutorial](http://qnimate.com/post-series/ecmascript-6-complete-tutorial/) - Complete ES6 Tutorials by [Narayan Prusty](http://qnimate.com/author/narayanrusty/)
+
+(11) [Practical ES6](https://ponyfoo.com/books/practical-es6/chapters#toc) - A Practical Dive into ES6 and Maintainable JavaScript Modules by [Nicolás Bevacqua](https://github.com/bevacqua)
+
+(12) [ES6 in 350 bullet points](https://github.com/bevacqua/es6) - :star2: ES6 Overview in 350 Bullet Points by [Nicolás Bevacqua](https://github.com/bevacqua)
