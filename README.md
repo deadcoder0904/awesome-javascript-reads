@@ -16,7 +16,7 @@
 
 (7) [Understanding ES6](https://github.com/sgaurav/understanding-es6) - Simple examples to help you understand ES6 by [Gaurav Singh](https://github.com/sgaurav)
 
-(8) [Getting Started with ECMAScript 6](http://es6.ruanyifeng.com/) - "ECMAScript 6 Getting Started" is an open source JavaScript language tutorial, a comprehensive introduction to the new ECMAScript 6 introduced the syntax characteristics by [Ruan YiFeng](https://github.com/ruanyf) written in *Chinese*. I use translate to English [Chrome Plugin](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb)
+(8) [Getting Started with ECMAScript 6](http://es6.ruanyifeng.com/) - "ECMAScript 6 Getting Started" is an open source JavaScript language tutorial, a comprehensive introduction to the new ECMAScript 6 introduced the syntax characteristics by [Ruan YiFeng](https://github.com/ruanyf) written in *Chinese*. I have used Google Translate [Chrome Plugin](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb) to translate to English
 
 (9) [ECMAScript 6 in Node.JS](https://github.com/JustinDrake/node-es6-examples) - This text introduces and illustrates, with simple examples, ECMAScript 6 (ES6 for short) features natively available in Node by [Justin](https://github.com/JustinDrake)
 
