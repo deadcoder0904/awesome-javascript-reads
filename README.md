@@ -27,3 +27,5 @@
 (12) [ES6 in 350 bullet points](https://github.com/bevacqua/es6) - :star2: ES6 Overview in 350 Bullet Points by [Nicolás Bevacqua](https://github.com/bevacqua)
 
 (13) [Javascript Stories](http://samalgorai.com/story/js-stories) - Javascript explained using Stories by [Samal Gorai](https://github.com/samal)
+
+(14) [Javascript Garden](http://bonsaiden.github.io/JavaScript-Garden/) - Growing collection of documentation about the most quirky parts of the JavaScript programming language by [Ivo Wetzel](https://github.com/bonsaiden)
