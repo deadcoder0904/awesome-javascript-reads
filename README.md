@@ -25,3 +25,5 @@
 (11) [Practical ES6](https://ponyfoo.com/books/practical-es6/chapters#toc) - A Practical Dive into ES6 and Maintainable JavaScript Modules by [Nicolás Bevacqua](https://github.com/bevacqua)
 
 (12) [ES6 in 350 bullet points](https://github.com/bevacqua/es6) - :star2: ES6 Overview in 350 Bullet Points by [Nicolás Bevacqua](https://github.com/bevacqua)
+
+(13) [Javascript Stories](http://samalgorai.com/story/js-stories) - Javascript explained using Stories by [Samal Gorai](https://github.com/samal)
