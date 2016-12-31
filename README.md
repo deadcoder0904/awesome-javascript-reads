@@ -29,3 +29,7 @@
 (13) [Javascript Stories](http://samalgorai.com/story/js-stories) - Javascript explained using Stories by [Samal Gorai](https://github.com/samal)
 
 (14) [Javascript Garden](http://bonsaiden.github.io/JavaScript-Garden/) - Growing collection of documentation about the most quirky parts of the JavaScript programming language by [Ivo Wetzel](https://github.com/bonsaiden)
+
+(15) [Easiest Javascript Posts](http://ngninja.com/tag/javascript/) - Clear. Concise. And Easy to Understand Javascript Blog Posts by [Shardul Bagade](http://www.shardulbagade.com/)
+
+(16) [PonyFoo](https://ponyfoo.com/) - A Blog about the open web, highlighting the most important news every Thursday by [Nicolás Bevacqua](https://github.com/bevacqua)
