@@ -14,7 +14,7 @@
 
 (6) [Exploring ES2016 and ES2017](http://exploringjs.com/es2016-es2017/index.html) - :tropical_fish: An In-Depth book on ECMAScript 2016-2017, for JavaScript programmers by [Dr.Axel Rauschmayer](https://github.com/rauschma)
 
-(7) [Understanding ES6](https://github.com/sgaurav/understanding-es6) - :simple_smile: Simple examples to help you understand ES6 by [Gaurav Singh](https://github.com/sgaurav)
+(7) [Understanding ES6](https://github.com/sgaurav/understanding-es6) - Simple examples to help you understand ES6 :wink: by [Gaurav Singh](https://github.com/sgaurav)
 
 (8) [Getting Started with ECMAScript 6](http://es6.ruanyifeng.com/) - :jack_o_lantern: "ECMAScript 6 Getting Started" is an open source JavaScript language tutorial, a comprehensive introduction to the new ECMAScript 6 introduced the syntax characteristics by [Ruan YiFeng](https://github.com/ruanyf) written in *Chinese*. I have used Google Translate [Chrome Plugin](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb) to translate to English
 
