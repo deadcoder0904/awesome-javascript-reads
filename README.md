@@ -33,3 +33,5 @@
 (15) [Easiest Javascript Posts](http://ngninja.com/tag/javascript/) - Clear. Concise. And Easy to Understand Javascript Blog Posts by [Shardul Bagade](http://www.shardulbagade.com/)
 
 (16) [PonyFoo](https://ponyfoo.com/) - A Blog about the open web, highlighting the most important news every Thursday by [Nicolás Bevacqua](https://github.com/bevacqua)
+
+(17) [JS Recipes](http://sahatyalkabov.com/jsrecipes/#!/) - JavaScript tutorials for backend and frontend development  by [Sahat Yalkabov](https://github.com/sahat)
