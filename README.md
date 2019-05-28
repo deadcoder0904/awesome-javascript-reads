@@ -35,3 +35,5 @@
 (16) [PonyFoo](https://ponyfoo.com/) - :kissing_cat: A Blog about the open web, highlighting the most important news every Thursday by [Nicolás Bevacqua](https://github.com/bevacqua)
 
 (17) [JS Recipes](http://sahatyalkabov.com/jsrecipes/#!/) - :cupid: JavaScript tutorials for backend and frontend development  by [Sahat Yalkabov](https://github.com/sahat)
+
+(18) [JavaScript Beginners: Friendly Intro and Exercises](https://snipcart.com/blog/javascript-beginner-intro-exercises) - This is an introduction to learning JavaScript with exercises and resource recommendations for beginner/intermediate learners. 
